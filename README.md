@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me @CqllMeToxic on Twitter
+- im new to GitHub :>
 
 <!---
 CqllMeToxic/CqllMeToxic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
